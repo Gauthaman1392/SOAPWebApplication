@@ -1,0 +1,8 @@
+trng\soap\service\loan\LoanEligibilityService_Service.class
+trng\soap\service\loan\package-info.class
+trng\soap\service\loan\ObjectFactory.class
+trng\soap\service\loan\LoanEligibilityService.class
+trng\soap\service\loan\NewOperationResponse.class
+trng\soap\service\loan\LoanRequest.class
+trng\soap\service\loan\LoanResponse.class
+trng\soap\service\loan\NewOperation.class
